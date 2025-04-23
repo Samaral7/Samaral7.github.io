@@ -83,20 +83,10 @@ const CONFIG = {
       'https://github.com/Samaral7/Samaral7.github.io/raw/main/Amaral%2C%20Sofia-CV%20(1).pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Microsoft Office',
+    'Salesforce',
+    'Microscopy',
+    'Micropipetting',
   ],
   experiences: [
     {
@@ -124,16 +114,13 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'California State University, Stanislaus',
+      degree: 'B.S in Biologoical Sciences',
+      from: '2021',
+      to: 'Present',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+
     },
   ],
   publications: [

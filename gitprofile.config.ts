@@ -103,6 +103,7 @@ const CONFIG = {
       to: '',
       companyLink: '',
     },
+    ],
     {
       company: 'California State University, Stanislaus',
       position: 'McNair Scholar',

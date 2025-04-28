@@ -90,7 +90,7 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'California State University Stanislaus CAPE Department',
+      company: 'California State University Stanislaus, CAPE Department',
       position: 'Evaluator Student Assistant',
       from: '2021',
       to: 'Present',

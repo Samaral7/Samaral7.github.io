@@ -100,7 +100,7 @@ const CONFIG = {
       company: 'California State University, Stanislaus',
       position: 'Undergraduate Researcher',
       from: 'Spring 2025',
-      to: '',
+      to: 'Spring 2025',
       companyLink: '',
     },
     {
@@ -114,7 +114,7 @@ const CONFIG = {
       company: 'California State University, Stanislaus Police Department',
       position: 'Student Police Academy',
       from: 'Spring 2025',
-      to: '',
+      to: 'Spring 2025',
       companyLink: '',
     },
   ],

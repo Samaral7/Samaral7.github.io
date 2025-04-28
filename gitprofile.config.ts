@@ -90,19 +90,33 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'California State University Stanislaus CAPE Department',
+      position: 'Evaluator Student Assistant',
+      from: '2021',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: '',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'California State University, Stanislaus',
+      position: 'Undergraduate Researcher',
+      from: 'Spring 2025',
+      to: '',
+      companyLink: '',
     },
+    {
+      company: 'California State University, Stanislaus',
+      position: 'McNair Scholar',
+      from: 'Spring 2025',
+      to: 'Present',
+      companyLink: '',
+     },
+    {
+      company: 'California State University, Stanislaus Police Department',
+      position: 'Student Police Academy',
+      from: 'Spring 2025',
+      to: '',
+      companyLink: '',
+{
   ],
   certifications: [
     {

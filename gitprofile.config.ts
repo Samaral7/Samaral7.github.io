@@ -109,13 +109,14 @@ const CONFIG = {
       from: 'Spring 2025',
       to: 'Present',
       companyLink: '',
-     },
+    },
     {
       company: 'California State University, Stanislaus Police Department',
       position: 'Student Police Academy',
       from: 'Spring 2025',
       to: '',
       companyLink: '',
+    },
 {
   ],
   certifications: [

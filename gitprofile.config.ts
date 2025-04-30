@@ -37,13 +37,13 @@ const CONFIG = {
           description:
             'This is my research proposal for my current McNair research analyzing how textile materials and enviromental conditions affect DNA degredation dependently of one another',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/Samaral7/Samaral7.github.io/blob/main/Research.png',
+          link: 'https://github.com/Samaral7/Samaral7.github.io/blob/main/Proposal Post (2)',
         },
         {
           title: 'Reduced light intensity decreases photosynthesis and shifts resource allocation towards the shoot in sunflower plants (Helianthus annuus)',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'This presentation describes the 4 week investigation I conducted researching the allocation of resources of light limited sunflow plants. ',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',

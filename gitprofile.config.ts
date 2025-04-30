@@ -37,16 +37,16 @@ const CONFIG = {
           description:
             'This is my research proposal for my current McNair research analyzing how textile materials and enviromental conditions affect DNA degredation dependently of one another',
           imageUrl:
-            'https://github.com/Samaral7/Samaral7.github.io/blob/main/Research.png',
-          link: 'https://github.com/Samaral7/Samaral7.github.io/blob/main/McNairResearch.pdf',
+            'https://github.com/Samaral7/Samaral7.github.io/raw/main/Research.png',
+          link: 'https://github.com/Samaral7/Samaral7.github.io/raw/main/McNairResearch.pdf',
         },
         {
           title: 'Reduced light intensity decreases photosynthesis and shifts resource allocation towards the shoot in sunflower plants (Helianthus annuus)',
           description:
             'This presentation describes the 4 week investigation I conducted researching the allocation of resources in light-limited sunflower plants. ',
           imageUrl:
-            'https://github.com/Samaral7/Samaral7.github.io/blob/main/Plant.png',
-          link: 'https://github.com/Samaral7/Samaral7.github.io/blob/main/SunflowerResearch.pdf',
+            'https://github.com/Samaral7/Samaral7.github.io/raw/main/Plant.png',
+          link: 'https://github.com/Samaral7/Samaral7.github.io/raw/main/SunflowerResearch.pdf',
         },
       ],
     },

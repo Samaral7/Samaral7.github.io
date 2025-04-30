@@ -33,15 +33,15 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Investigating the Correlation Between Textile Materials and Environmental Conditions on DNA Degradation in Bloodstains ',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'This is my research proposal for my current McNair research analyzing how textile materials and enviromental conditions affect DNA degredation dependently of one another',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
         },
         {
-          title: 'Project Name',
+          title: 'Reduced light intensity decreases photosynthesis and shifts resource allocation towards the shoot in sunflower plants (Helianthus annuus)',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:

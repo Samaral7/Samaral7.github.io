@@ -43,7 +43,7 @@ const CONFIG = {
         {
           title: 'Reduced light intensity decreases photosynthesis and shifts resource allocation towards the shoot in sunflower plants (Helianthus annuus)',
           description:
-            'This presentation describes the 4 week investigation I conducted researching the allocation of resources of light limited sunflow plants. ',
+            'This presentation describes the 4 week investigation I conducted researching the allocation of resources in light-limited sunflower plants. ',
           imageUrl:
             'https://github.com/Samaral7/Samaral7.github.io/blob/main/Plant.png',
           link: 'https://github.com/Samaral7/Samaral7.github.io/blob/main/The impact of light intensity on photosynthetic rates and resource allocation in sunflower plants (Helianthus annuus).pdf',

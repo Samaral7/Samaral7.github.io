@@ -46,7 +46,7 @@ const CONFIG = {
             'This presentation describes the 4 week investigation I conducted researching the allocation of resources in light-limited sunflower plants. ',
           imageUrl:
             'https://github.com/Samaral7/Samaral7.github.io/blob/main/Plant.png',
-          link: 'https://github.com/Samaral7/Samaral7.github.io/blob/main/Plant.pdf',
+          link: 'https://github.com/Samaral7/Samaral7.github.io/blob/main/SunflowerResearch.pdf',
         },
       ],
     },

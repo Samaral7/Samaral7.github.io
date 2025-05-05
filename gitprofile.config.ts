@@ -139,7 +139,7 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: 'Genome sequence of Atlantibacter subterranea DSM 16208 Isolated from Uranium-contaminated Sediment ',
+      title: 'Genome Sequence of Atlantibacter subterranea DSM 16208 Isolated from Uranium-contaminated Sediment ',
       conferenceName: '',
       journalName: 'Microbiology Resource Announcements',
       authors: 'Sofia Amaral, Luis Garcia, Adrianna Gonzalez, Samantha Prince, Komal Takhar , Tricia Van Laar',

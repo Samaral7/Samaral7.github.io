@@ -152,7 +152,7 @@ const CONFIG = {
       conferenceName: '',
       journalName: '',
       authors: 'Sofia Amaral',
-      link: 'https://example.com',
+      link: 'https://github.com/Samaral7/Samaral7.github.io/blob/main/Research%20Proposal%20Draft.pdf',
       description:
         'DNA is a crucial component of forensic science analysis, and its degradation can impact forensic samples by affecting the accuracy and reliability of results. This study investigates how different textile materials and environmental conditions influence DNA degradation and the efficiency of DNA extraction from blood stains. By understanding the limitations of DNA, forensic scientists can understand the limitations of their own analysis. 50 µl of swine blood will be placed on different textiles (faux leather, wool, polyester, and cotton) and left in varying environmental conditions for a set number of hours. These conditions are meant to represent real-world forensic scenarios. DNA extraction and quantification will be performed at designated time intervals to assess degradation rates and the effectiveness of extraction. Each sample will be prepared by cutting a 1 cm² square of stained fabric and placing the fabric in a microcentrifuge tube. Extraction of DNA will be conducted following a phenol-chloroform protocol. The analysis of DNA quality will be measured using Agarose Gel Electrophoresis and Nanodrop. Different textile materials and environmental conditions will significantly affect the rate of DNA degradation in bloodstains with natural fibers exhibiting higher degradation rates under harsher environmental conditions compared to synthetic fibers.  ',
     },

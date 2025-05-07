@@ -120,10 +120,10 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: '',
+      body: '',
+      year: '',
+      link: '',
     },
   ],
   educations: [
@@ -148,13 +148,13 @@ const CONFIG = {
         'This is a manuscript in submission. We report the whole genome sequence of an antibiotic-resistant strain of Atlantibacter subterranea isolated from Uranium-contaminated sediment in Tennessee. The genome sequence of this strain was 4,717,064 bp in length, contained 34 contigs and 29 scaffolds, and with a GC content of 55.17%.',
     },
     {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
+      title: 'Investigating the Correlation Between Textile Materials and Environmental Conditions on DNA Degradation in Bloodstains ',
+      conferenceName: '',
       journalName: '',
-      authors: 'John Doe, Jane Smith',
+      authors: 'Sofia Amaral',
       link: 'https://example.com',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'DNA is a crucial component of forensic science analysis, and its degradation can impact forensic samples by affecting the accuracy and reliability of results. This study investigates how different textile materials and environmental conditions influence DNA degradation and the efficiency of DNA extraction from blood stains. By understanding the limitations of DNA, forensic scientists can understand the limitations of their own analysis. 50 µl of swine blood will be placed on different textiles (faux leather, wool, polyester, and cotton) and left in varying environmental conditions for a set number of hours. These conditions are meant to represent real-world forensic scenarios. DNA extraction and quantification will be performed at designated time intervals to assess degradation rates and the effectiveness of extraction. Each sample will be prepared by cutting a 1 cm² square of stained fabric and placing the fabric in a microcentrifuge tube. Extraction of DNA will be conducted following a phenol-chloroform protocol. The analysis of DNA quality will be measured using Agarose Gel Electrophoresis and Nanodrop. Different textile materials and environmental conditions will significantly affect the rate of DNA degradation in bloodstains with natural fibers exhibiting higher degradation rates under harsher environmental conditions compared to synthetic fibers.  ',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
